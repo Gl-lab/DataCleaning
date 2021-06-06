@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCleaning", "DataCleaning\DataCleaning.csproj", "{474C0033-88AA-4C90-9553-3A50C77899FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsDataCleaning", "TestsDataCleaning\TestsDataCleaning.csproj", "{7E611276-F07B-4769-8D1F-FD6ED0410C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpHandler", "HttpHandler\HttpHandler.csproj", "{AEE2A264-4CF3-4ABD-9A35-A3B278D02219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474C0033-88AA-4C90-9553-3A50C77899FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474C0033-88AA-4C90-9553-3A50C77899FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474C0033-88AA-4C90-9553-3A50C77899FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474C0033-88AA-4C90-9553-3A50C77899FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E611276-F07B-4769-8D1F-FD6ED0410C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E611276-F07B-4769-8D1F-FD6ED0410C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E611276-F07B-4769-8D1F-FD6ED0410C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E611276-F07B-4769-8D1F-FD6ED0410C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE2A264-4CF3-4ABD-9A35-A3B278D02219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE2A264-4CF3-4ABD-9A35-A3B278D02219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE2A264-4CF3-4ABD-9A35-A3B278D02219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE2A264-4CF3-4ABD-9A35-A3B278D02219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

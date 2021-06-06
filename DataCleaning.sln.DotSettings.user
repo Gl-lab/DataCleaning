@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dfdd1fc1_002Da58a_002D4e49_002Db503_002D3cc409d7dd59/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestHttpGetStringClear_RestClean" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E611276-F07B-4769-8D1F-FD6ED0410C99::net5.0::TestsDataCleaning.HttpGetStringClearTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E611276-F07B-4769-8D1F-FD6ED0410C99::net5.0::TestsDataCleaning.HttpResultCleanerTests.TestHttpResultCleaner_TestClean&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E611276-F07B-4769-8D1F-FD6ED0410C99::net5.0::TestsDataCleaning.HttpResultCleanerTests.TestHttpResultCleaner_TestClean_MockHttpResult_ClearSecureData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E611276-F07B-4769-8D1F-FD6ED0410C99::net5.0::TestsDataCleaning.HttpHandlerTests.TestHttpHandler_TestProcess_&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E611276-F07B-4769-8D1F-FD6ED0410C99::net5.0::TestsDataCleaning.JsonClearTests.TestJsonClear_TestClear_BaseJsonWithString_ClearSecureData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E611276-F07B-4769-8D1F-FD6ED0410C99::net5.0::TestsDataCleaning.JsonClearTests.TestJsonClear_TestClear_BaseJsonWithNumeric_ClearSecureData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E611276-F07B-4769-8D1F-FD6ED0410C99::net5.0::TestsDataCleaning.JsonClearTests.TestJsonClear_TestClear_BaseJsonWithSpaces_ClearSecureData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E611276-F07B-4769-8D1F-FD6ED0410C99::net5.0::TestsDataCleaning.SimpleXmlClearTests.TestSimpleXmlClear_TestClear_BaseXml_ClearSecureData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E611276-F07B-4769-8D1F-FD6ED0410C99::net5.0::TestsDataCleaning.SimpleXmlClearTests.TestSimpleXmlClear_TestClear_IsNotIgnoreCase_ClearSecureData&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
